@@ -1,0 +1,9 @@
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\bin\Debug\rpnicks.exe.config
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\bin\Debug\rpnicks.exe
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\bin\Debug\rpnicks.pdb
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\obj\Debug\rpnicks.csprojResolveAssemblyReference.cache
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\obj\Debug\rpnicks.exe
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\obj\Debug\rpnicks.pdb
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\bin\Debug\1.0\rpnicks.exe.config
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\bin\Debug\1.0\rpnicks.exe
+C:\Users\v3d1m\Desktop\Проекты\RpNicks\rpnicks\rpnicks\bin\Debug\1.0\rpnicks.pdb
